@@ -1,0 +1,13 @@
+﻿.vs/
+bin/
+obj/
+packages/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+TestResults/
+*.pdb
+*.cache
+App_Data/*.mdf
+App_Data/*.ldf
